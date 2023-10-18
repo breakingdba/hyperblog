@@ -52,7 +52,13 @@ body
     padding: 1em;
 
 }
-
+#post #imagen
+{
+    padding: 5px;
+    margin:  5px;
+    text-align: center;
+    width: 50%;
+}
 #footer
 {
     background: #777;
