@@ -9,5 +9,7 @@ Un blog increíble para el curso de [Git y Github](https://platzi.com/clases/155
 * El verdadero amor por las buenas practicas
 * Las personalidades multiples de Frank
 * Creado por el increible Platzi team
+* Incluye ejemplos en Linux, Windows y MAC
+* Disponible para todas la edades
 
 Y como un amable recordarotio: **Este redme.md es un chiste**. Diseñado para un ejemplo. Si llegas acá NO LO TOMES EN SERIO y mejor ve [a ver el curso](https://platzi.com/clases/1557-git-github// "a ver el curso")
